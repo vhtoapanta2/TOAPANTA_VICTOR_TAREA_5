@@ -216,20 +216,55 @@ En tanto exista corriente , el embolo permanece retraido por la fuerza de atracc
 
 12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra.
 
+![image](https://user-images.githubusercontent.com/117923992/210465423-9bd71f80-f976-442d-895c-eb8aa235ca8a.png)
+
+Lo que pasa cuando es Sw1 se cierre es que formara un circuito cerrado por el cual pasare un voltaje y una corriente por el solenoide se contraera haciendo que la flecha que esta conectada al terminal uno haciendo ahora que se atraiga el terminal 2 por endeya no encendera la lampara uno sino la lampara dos.
 
 HISTERESIS MAGNETICA 
 
-14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
-
 16. En la figura 10-44, hay 500 vueltas. Determine
 
+![image](https://user-images.githubusercontent.com/117923992/210465962-839f8700-ed85-4751-a5ab-1541383e9ada.png)
+
 ![image](https://user-images.githubusercontent.com/117923992/210453578-3d4d334f-064b-4a0d-aa20-dcd0a9392119.png)
+
+A) Aplicamos la siguiente formula para calcular:
+
+![image](https://user-images.githubusercontent.com/117923992/210465664-1d3feafb-8f25-47d5-ab91-becad2d9f69e.png)
+
+![image](https://user-images.githubusercontent.com/117923992/210465675-1cd8078c-0d75-45b8-a036-e8dcf01f53ac.png)
+
+![image](https://user-images.githubusercontent.com/117923992/210465694-a0b130a5-9a78-4ca8-8cf5-4e107fe98d31.png)
+
+B) Aplicamos la siguiente formula para calcular:
+
+![image](https://user-images.githubusercontent.com/117923992/210465769-58b9865a-b196-4b98-9e11-cadebb737a09.png)
+
+![image](https://user-images.githubusercontent.com/117923992/210465784-a2046d51-2966-4b0a-8ccf-b8b5e24d848a.png)
+
+C) Aplicamos la siguiente formula para calcular:
+
+![image](https://user-images.githubusercontent.com/117923992/210465853-fd937161-3338-48a3-9db6-06691030882d.png)
+
+B= 
+![image](https://user-images.githubusercontent.com/117923992/210465889-126c3046-1994-41e5-99b1-5a35fa6029a4.png)
 
 INDUCCION ELECTROMAGNETICA
 
 18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
 
+PRIMERA LEY DE FARADAY:
+
+1.) La cantidad de voltaje inducido en una bobina es directamente proporcional a la rapidez de cambio del campo magnetico con respecto a la bobina 
+![image](https://user-images.githubusercontent.com/117923992/210466069-e8f34349-3d76-4f15-a55a-cb41228a0f8a.png)
+
 20. Un campo magnético cambia a razón de 3500 3 1023 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
+
+Con:
+
+![image](https://user-images.githubusercontent.com/117923992/210466105-7a9b6025-efd5-47d4-9e68-93f0a1a615f4.png)
+
+![image](https://user-images.githubusercontent.com/117923992/210466122-3b5fce1a-3d34-4b36-aba2-362e83aed886.png)
 
 APLICACIONES DE LA INDUCCION ELECTROMAGNETICA
 
@@ -237,7 +272,11 @@ APLICACIONES DE LA INDUCCION ELECTROMAGNETICA
 
 ![image](https://user-images.githubusercontent.com/117923992/210453787-c829d70d-db40-4a0e-8d57-66699b795bf7.png)
 
+Conforme el disco de acero girara con el cigueñal, los dientes pasan periodicamente a traves del entrehierro del iman permanente. Como la reluctancia del acero es mucho mas baja que la del aire(Es posible establecer un campo magnetico en el acero mucho mas facilmente que en el aire), el flujjo magnetico es incrementa de repente en el momentoen que un diente entra en el entrehierro, y esto provoca una induccion de voltaje a travez de la bobina.
+
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+Llegara 60 veces cada segundo el voljaje de cd
 
       VIDEO:
 
