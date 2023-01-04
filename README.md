@@ -48,6 +48,8 @@ CAPITULO 10
 
       EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS:
 
+CAPITULO 9
+
 ECUACIONES SIMULTANEAS EN EL ANALISIS DE CIRCUITOS
 
 2. Evalúe cada determinante:
@@ -69,6 +71,7 @@ D)
 4. Evalúe cada uno de los determinantes:
 
 ![image](https://user-images.githubusercontent.com/117923992/210362975-22b3e880-59ee-4d4c-85de-d7df0491329e.png)
+
 A)
 
 ![image](https://user-images.githubusercontent.com/117923992/210462302-3ad30af8-96a9-4cda-9ae2-0204f25b7533.png)
@@ -280,7 +283,7 @@ Llegara 60 veces cada segundo el voljaje de cd
 
       VIDEO:
 
-LINK:
+LINK: https://youtu.be/7MDpQb9hh0U
 
       CONCLUSIONES:
 
