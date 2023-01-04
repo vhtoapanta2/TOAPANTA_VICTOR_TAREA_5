@@ -280,7 +280,10 @@ Llegara 60 veces cada segundo el voljaje de cd
 
       VIDEO:
 
+LINK:
+
       CONCLUSIONES:
+
 Se pudo conocer como punto principal que Rama – Las ramas son las conexiones entre los nodos. Una rama es un elemento (resistor, capacitor, fuente, etc.). El número de ramas en un circuito es igual al número de elementos.
 
 Del mismo modo El electromagnetismo está presente en todas partes. El magnetismo es la fuerza, presente en y entre todos los objetos, que se produce a partir del movimiento de los electrones, y que resulta en la atracción y repulsión de diferentes objetos.
