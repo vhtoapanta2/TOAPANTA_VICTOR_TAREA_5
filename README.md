@@ -20,7 +20,7 @@ TAREA N° 5
   
 OBJETIVOS GENERALES:
 
-Identificar y realizar ejercicios del tema de "Circuitos en serie-paralelo" conociendo sus caracteristicas y relaciones.
+Identificar y realizar ejercicios del  libro "Principios de circuitos eléctricos" de Floyd (8.a ed.) conociendo sus caracteristicas y relaciones.
 
 OBJETIVOS ESPECIFICOS:
 
